@@ -11,7 +11,6 @@ html,body{
 }
 
 
-/**Divs gerais!*/
 .container{
 	width: 100%;
 	max-width: 1024px;
@@ -21,7 +20,6 @@ html,body{
 .clear{
 	clear: both;
 }
-/******/
 
 header{
 	background-color:rgb(220,220,220);
@@ -36,7 +34,6 @@ header{
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	background-position: center;
-	/*background-color: purple;*/
 }
 
 .logo-2{
@@ -47,7 +44,6 @@ header{
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	background-position: center;
-	/*background-color: green;*/
 }
 
 section.cover-form{
@@ -126,10 +122,6 @@ section.chamada{
 	text-align: center;
 	position: relative;
 }
-
-/*
-	Icone da seta na sessão feita em OFF!
-*/
 
 .icone-seta{
 	position: absolute;
